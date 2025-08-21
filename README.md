@@ -68,6 +68,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="ChatGPT" 
+    title="ChatGPT" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" 
+/>
 
 <br/>
 <br/>
